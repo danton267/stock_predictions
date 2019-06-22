@@ -1,6 +1,6 @@
 # *Weekly Stock Prediction*
 
-Different classification techniques predicting the percentage return of the stock market, namelyÅF LR, LDA and kNN.
+Different classification techniques predicting the percentage return of the stock market, namely: LR, LDA and kNN.
 
 The models use different data-preprocessing methods as well as validation methods.
 
